@@ -1,0 +1,14 @@
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/liga/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
